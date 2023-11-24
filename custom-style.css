@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #f4f4f4;
 }
@@ -16,4 +17,24 @@ body {
 #change-image {
     display: block; 
     margin: 0 auto; 
+=======
+body {
+    background-color: #f4f4f4;
+}
+
+.container {
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#change-image {
+    display: block; 
+    margin: 0 auto; 
+>>>>>>> 3db3075e83c076604c1dfc72f03116c43efc4f89
 }
